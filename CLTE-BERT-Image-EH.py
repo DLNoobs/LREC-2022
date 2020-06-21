@@ -627,7 +627,7 @@ def train_img(img_features,output_dir,input_fn,input_fn_builder_progressive = Fa
   BATCH_SIZE = 28
   LEARNING_RATE = 2e-5
   NUM_TRAIN_EPOCHS = Epochs
-  # Warmup is a period of time where hte learning rate is small and gradually increases--usually helps training.
+  # Warmup is a period of time where the learning rate is small and gradually increases--usually helps training.
   WARMUP_PROPORTION = 0.1
   # Model configs
   SAVE_CHECKPOINTS_STEPS = 6000

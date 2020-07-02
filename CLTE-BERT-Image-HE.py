@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Code Authors: Dibyanayan Badndypadhyay, Arkadipta De, Baban Gain
+Code Authors: Dibyanayan Bandyopadhyay, Arkadipta De, Baban Gain
 MIT LIcensed 2020
 SEED = 42
 1. Hindi Premise and English Hypothesis (Image Included)
